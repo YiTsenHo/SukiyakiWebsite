@@ -3,7 +3,7 @@ body, html {
     margin: 0;
     padding: 0;
     font-family: 'Noto Serif TC', Arial, sans-serif;
-    background: url('/images/brown_background.jpg') no-repeat center center fixed; 
+    background: url('images/brown_background.jpg') no-repeat center center fixed; 
     background-size: cover; 
     height: 100%; /* 確保高度定義 */
     overflow-y: auto; /* 垂直方向允許滾動 */
